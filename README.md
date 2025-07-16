@@ -21,12 +21,16 @@ Comment visionner le projet
 
 1️⃣ Cloner le projet
 git clone https://github.com/Benjamin63B/Trouve-ton-artisan.git](https://github.com/Damso974/Trouve-ton--artisant-React-)
+
 2️⃣ Accéder au répertoire du projet
   cd Trouve Ton Artisant
+
 3️⃣ Installer les dépendances
   npm install
+
 4️⃣ Démarrer le serveur
   npm run dev
+
 🌍 Accéder au projet en ligne
 Le projet est déployé et accessible à l'adresse suivante :
 
